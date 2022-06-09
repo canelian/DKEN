@@ -1,5 +1,5 @@
 # image-gallery
-이미지 갤러리 구현 데모
+이미지 갤러리 구현 데모<br>
 HOME: https://canelian.github.io/DKEN/
 
 ## 기능소개
